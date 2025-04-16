@@ -14,7 +14,7 @@ export const claimPlatformFee = async () => {
     poolId,
 
     // mintB: NATIVE_MINT,
-    // vaultB: new PublicKey('4hovbmAKVRCyj6vmBxZ533ntnrUVGkQfwxzdxzewnR47'),
+    // vaultB: new PublicKey('21LGMbH8MDAZXKCsgZqFpbrMHL4Tox384dk5ehQYcook'),
     // mintBProgram?: PublicKey;
 
     txVersion: TxVersion.V0,
